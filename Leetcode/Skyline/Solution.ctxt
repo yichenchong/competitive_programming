@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Solution
+comment0.text=\n\ Write\ a\ description\ of\ class\ Solution\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=buildings
+comment1.target=int[][]\ skylineProblem(int[][])
+comment1.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
+comment2.params=building\ value
+comment2.target=boolean\ buildingAt(int[],\ int)
+comment3.params=heights
+comment3.target=int\ maxHeight(java.util.ArrayList)
+numComments=4
